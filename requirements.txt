@@ -3,3 +3,48 @@ streamlit==1.31.0
    plotly==5.18.0
    openpyxl==3.1.2
    numpy==1.26.3
+```
+
+3. Scrollez en bas et cliquez sur **"Commit changes"**
+
+4. Confirmez en cliquant encore sur **"Commit changes"**
+
+---
+
+## 🔄 **REDÉPLOYER L'APPLICATION**
+
+Après avoir corrigé `requirements.txt` :
+
+1. Retournez sur **Streamlit Cloud** : `https://share.streamlit.io`
+
+2. Trouvez votre app dans la liste
+
+3. Cliquez sur les **3 points (⋮)** à droite
+
+4. Cliquez sur **"Reboot app"**
+
+5. Attendez 5-8 minutes
+
+---
+
+## 📋 **PLAN D'ACTION COMPLET**
+
+| Étape | Action |
+|-------|--------|
+| 1 | Aller sur GitHub → repository bank-app |
+| 2 | Ouvrir `requirements.txt` |
+| 3 | Vérifier/corriger le contenu |
+| 4 | Cliquer sur ✏️ (éditer) si besoin |
+| 5 | Remplacer par le bon contenu |
+| 6 | Commit changes |
+| 7 | Retourner sur Streamlit Cloud |
+| 8 | Reboot app |
+| 9 | Attendre 8 minutes |
+
+---
+
+## 🎯 **ACTION IMMÉDIATE**
+
+**1. Allez maintenant sur :**
+```
+https://github.com/Hibaa2004/bank-app
